@@ -188,9 +188,11 @@ body {
     margin-top: 300px;}
 
     .recepty h2 {font-size: 28px;}
-    }
+   
 
     .nazev {margin-top: 175px;}
 
     .komentare,
     .kategorie {padding-right: 20px;}
+
+}
